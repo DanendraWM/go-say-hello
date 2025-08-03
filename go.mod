@@ -1,3 +1,3 @@
-module github.com/DanendraWM/go-say-hello
+module github.com/DanendraWM/go-say-hello/v2
 
 go 1.24.0
